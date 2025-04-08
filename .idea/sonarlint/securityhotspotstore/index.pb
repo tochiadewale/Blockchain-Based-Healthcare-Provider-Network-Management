@@ -9,3 +9,7 @@ T
 $contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
 S
 #tests/provider-verification.test.ts,8/6/860d95ca41eac302534a801b7c132a241e18e336
+K
+contracts/service-rate.clar,0/0/00e7d46c26d812e0cae1c1b7e41df4fc0b843d34
+J
+tests/service-rate.test.ts,d/d/dd037fc4afd8d5944914904d5adc2fc6c6062491
